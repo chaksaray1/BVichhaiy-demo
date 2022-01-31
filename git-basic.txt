@@ -1,0 +1,7 @@
+git checkout develop
+git checkout -b create-login
+git commit -m "create-login: social-50%"
+"create-login: complete social"
+"create-login: email"
+
+git squash merge commit
